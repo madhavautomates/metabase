@@ -100,6 +100,6 @@ entries:
     sources:
     - https://github.com/metabase/metabase
     urls:
-    - https://madhavautomates.github.io/metabase/docs/metabase-2.24.0.tgz
+    - https://madhavautomates.github.io/metabase/metabase-2.24.0.tgz
     version: 2.24.0
 generated: "2026-01-18T20:24:10.6846708+05:30"
